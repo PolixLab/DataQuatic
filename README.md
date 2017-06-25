@@ -4,6 +4,8 @@ An autonomous aquatic vehicle to facilitate sampling stage in a field of shrimp 
 Authors
 =======================================================================
 Paul Barajas <paul.barajas@linux.com>
+Guillermo Galvan <guillermogs@gmail.com>
+Erick Noriega <ericknoriegapadilla@gmail.com>
 
 See also the list of contributors who participated in this project.
 
