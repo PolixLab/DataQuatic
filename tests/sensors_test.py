@@ -4,7 +4,7 @@
 import unittest
 from DataQuatic.sensors import BMP180
 
-class TestStringMethods(unittest.TestCase):
+class TestSensors(unittest.TestCase):
     def __init__(self):
         self.bmp180 = BMP180.BMP180()
 
