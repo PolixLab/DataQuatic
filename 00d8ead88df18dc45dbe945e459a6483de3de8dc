@@ -1,0 +1,73 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "5701ab52_445a4d3f",
+        "filename": "/COMMIT_MSG",
+        "patchSetId": 1
+      },
+      "lineNbr": 7,
+      "author": {
+        "id": 1012215
+      },
+      "writtenOn": "2017-10-22T17:19:29Z",
+      "side": 1,
+      "message": "needed to add the change-id hash in the commii message for better gerrit functionality \n\nin this case:\n____________________________________________________\nconfiguring SSL connection\n\nChange-Id: Id986e88f2d3aadca39b65b846d235589b3f8b909\n____________________________________________________",
+      "range": {
+        "startLine": 7,
+        "startChar": 16,
+        "endLine": 7,
+        "endChar": 26
+      },
+      "revId": "00d8ead88df18dc45dbe945e459a6483de3de8dc",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "89441183_56a40867",
+        "filename": "config/ssh_options.sh",
+        "patchSetId": 1
+      },
+      "lineNbr": 5,
+      "author": {
+        "id": 1012215
+      },
+      "writtenOn": "2017-10-22T17:19:29Z",
+      "side": 1,
+      "message": "Remove trailing whitespaces",
+      "range": {
+        "startLine": 5,
+        "startChar": 33,
+        "endLine": 5,
+        "endChar": 34
+      },
+      "revId": "00d8ead88df18dc45dbe945e459a6483de3de8dc",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "56b2404c_d334986a",
+        "filename": "config/ssh_options.sh",
+        "patchSetId": 1
+      },
+      "lineNbr": 7,
+      "author": {
+        "id": 1012215
+      },
+      "writtenOn": "2017-10-22T17:19:29Z",
+      "side": 1,
+      "message": "Why not to comment why wee need this configurations",
+      "range": {
+        "startLine": 7,
+        "startChar": 0,
+        "endLine": 7,
+        "endChar": 29
+      },
+      "revId": "00d8ead88df18dc45dbe945e459a6483de3de8dc",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    }
+  ]
+}
