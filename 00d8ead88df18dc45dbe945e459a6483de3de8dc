@@ -68,6 +68,30 @@
       "revId": "00d8ead88df18dc45dbe945e459a6483de3de8dc",
       "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
       "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "4b24db21_b982e6e0",
+        "filename": "config/ssh_options.sh",
+        "patchSetId": 1
+      },
+      "lineNbr": 7,
+      "author": {
+        "id": 1012223
+      },
+      "writtenOn": "2017-10-22T17:56:46Z",
+      "side": 1,
+      "message": "Bash script functionality is at the beginning of the file, it\u0027s not necessary to describe each function or line what is to accomplish.",
+      "parentUuid": "56b2404c_d334986a",
+      "range": {
+        "startLine": 7,
+        "startChar": 0,
+        "endLine": 7,
+        "endChar": 29
+      },
+      "revId": "00d8ead88df18dc45dbe945e459a6483de3de8dc",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
     }
   ]
 }
