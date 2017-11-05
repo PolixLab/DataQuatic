@@ -2,7 +2,7 @@
 # -*- encoding: utf-8 -*-
 
 import unittest
-from DataQuatic.sensors import BMP180
+from DataQuatic.sensors import BMP180i, DS18B20
 
 class TestSensors(unittest.TestCase):
     def __init__(self):
@@ -12,3 +12,6 @@ class TestSensors(unittest.TestCase):
         self.assertTrue(self.bmp180.temperature)
         self.assertTrue(self.bmp180.pressure)
         self.assertTrue(self.bmp180.altitude)
+
+    def test_DS18B20(self):
+        self.assertTrue(self.DS18B20.temperature)
